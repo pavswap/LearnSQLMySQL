@@ -1,5 +1,5 @@
 # LearnSQLMySQL
 
-<img width="500" height="1000" alt="My SQl" src="https://github.com/user-attachments/assets/efd62389-2ae7-4156-91e1-2e546385b12c" />
+<img width="1920" height="1080" alt="SQL and MySQL" src="https://github.com/user-attachments/assets/9ce9cfc4-7f25-4368-a505-b90e4589998d" />
 
 Repositry for all the Queries I wrote while Studying MySQL .
